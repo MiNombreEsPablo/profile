@@ -3,7 +3,7 @@ Pablo's Profile
 Hey there! 👋
 =============
 
-![Pablo Bugueño](/images/profile_pic.jpg)
+![Pablo Bugueño]
 
 My name is Pablo Bugueño.
 -------------------------
