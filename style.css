@@ -33,6 +33,10 @@ a:hover {
   color: black;
 }
 
+i {
+  font-size: 25px;
+}
+
 .container {
   width: 700px;
   margin: 40px auto;
@@ -91,12 +95,17 @@ a:hover {
 }
 .list-inline i {
   font-size: 25px;
-  color: #674b7c);
+  color: #674b7c;
 }
-.list-inline i:hover {
+
+#socials .list-inline i:hover {
   color: black;
 }
 
 #socials a {
   margin-bottom: 40px;
+}
+
+#hobbies .list-inline i {
+  color: #f47362;
 }
