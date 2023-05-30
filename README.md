@@ -1,2 +1,1 @@
-```html
-<iframe src="index.html"></iframe>
+Profile page for Le Wagon challenge
